@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from './frontier.svg';
 import './App.css';
 
 class App extends Component {
@@ -13,11 +13,11 @@ class App extends Component {
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://familysearch.org/frontier/docs"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn Frontier
           </a>
         </header>
       </div>
